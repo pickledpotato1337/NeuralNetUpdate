@@ -1,0 +1,7 @@
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\obj\Debug\NeuralNetUpdate.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\obj\Debug\NeuralNetUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\bin\Debug\NeuralNetUpdate.exe.config
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\bin\Debug\NeuralNetUpdate.exe
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\bin\Debug\NeuralNetUpdate.pdb
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\obj\Debug\NeuralNetUpdate.exe
+C:\Users\Dave\source\repos\NeuralNetUpdate\NeuralNetUpdate\obj\Debug\NeuralNetUpdate.pdb
